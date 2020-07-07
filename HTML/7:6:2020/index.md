@@ -14,3 +14,12 @@
 
 # in style 
 ex: style="color: red;" ---> this turn the text red 
+
+# style block 
+
+ex: 
+<style>
+  h2{
+    color: blue;
+  }
+</style>
