@@ -6,6 +6,11 @@
 - ex: 
 <style>
   .blue-text {
-    color: blue;
-  }
-</style>
+ </style>
+
+# font size of an element 
+- font size is controlled by tbe font-size css property 
+- ex: 
+h1 {
+  font-size: 30px;
+}
