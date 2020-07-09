@@ -14,3 +14,9 @@
 h1 {
   font-size: 30px;
 }
+
+
+
+7/8/2020
+# set the font family of an element 
+ex: font-family: sans-serif; 
