@@ -20,3 +20,7 @@ h1 {
 7/8/2020
 # set the font family of an element 
 ex: font-family: sans-serif; 
+
+# import a basic Google font 
+- google font is a free library font 
+ex: <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
