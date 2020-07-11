@@ -35,3 +35,14 @@ ex:
     width: 500px;
   }
 </style>
+
+# add borders your elements 
+- CSS borders have properties like style, color and width.
+ex:
+<style>
+  .thin-red-border {
+    border-color: red;
+    border-width: 5px;
+    border-style: solid;
+  }
+</style>
