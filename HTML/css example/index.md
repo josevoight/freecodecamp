@@ -24,3 +24,14 @@ ex: font-family: sans-serif;
 # import a basic Google font 
 - google font is a free library font 
 ex: <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+
+- this is the lobster font 
+
+# size your image d
+- width controls an element's width 
+ex: 
+<style>
+  .larger-image {
+    width: 500px;
+  }
+</style>
