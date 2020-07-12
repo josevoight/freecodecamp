@@ -54,3 +54,6 @@ ex:
     border-color: green;
     border-style: solid;
   
+# add rounded corners with border-radius 
+ex:
+border-radius: 10px;
