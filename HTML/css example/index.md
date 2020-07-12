@@ -46,3 +46,11 @@ ex:
     border-style: solid;
   }
 </style>
+
+# add borders around your elements 
+- border have properties like style, color and width.
+  .thick-green-border{
+    border-width: 10px;
+    border-color: green;
+    border-style: solid;
+  
