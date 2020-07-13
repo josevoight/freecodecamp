@@ -54,6 +54,28 @@ ex:
     border-color: green;
     border-style: solid;
   
+
+  7/12/2020
 # add rounded corners with border-radius 
 ex:
 border-radius: 10px;
+
+# make circular images with a border-radius 
+
+- by using percent 
+ex: border-radius: 50%;
+
+# background color to a div element 
+- by using background-color property 
+ex: background-color: green;
+
+# set the id of an element 
+- addition to classes, we can also use the #id attribute 
+- id attributes should be unique 
+ex: id="cat-photo-form"
+
+# using an id attributes to style an element 
+- id is not reusable and should only be applied to one element 
+- id has a higher important than class id ----> class 
+ex: #cat-photo-element ---> to call an element 
+
