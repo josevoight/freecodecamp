@@ -31,8 +31,15 @@
                     border-width: 10px;
                     border-color: green;
                     border-style: solid;
-                    border-radius: 10px;
+                    border-radius: 50%;
                          }
+            .cat-photo-div{
+                background-color: darkred;
+            }
+
+            #cat-photo-form{
+                background-color: silver;
+            }
 
               </style>
               
@@ -42,7 +49,7 @@
               
                 <a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
               
-                <div>
+                <div class="cat-photo-div">
                   <p>Things cats love:</p>
                   <ul>
                     <li>cat nip</li>
@@ -57,7 +64,7 @@
                   </ol>
                 </div>
               
-                <form action="/submit-cat-photo">
+                <form id="cat-photo-form" action="/submit-cat-photo">
                   <label><input type="radio" name="indoor-outdoor" checked> Indoor</label>
                   <label><input type="radio" name="indoor-outdoor"> Outdoor</label><br>
                   <label><input type="checkbox" name="personality" checked> Loving</label>
