@@ -79,3 +79,15 @@ ex: id="cat-photo-form"
 - id has a higher important than class id ----> class 
 ex: #cat-photo-element ---> to call an element 
 
+
+# adjust the padding of an element 
+- HTML are essentially little rectangles 
+ 3 properties control the space that surround each HTML element: 
+ - padding 
+ - margin 
+ - border 
+ ex: padding: 20px;
+
+ # adjust the margin of an element 
+ - margin controls the amount of space between an element border and surrounding elements 
+ ex: margin: 20px;
