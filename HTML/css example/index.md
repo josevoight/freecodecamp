@@ -91,3 +91,8 @@ ex: #cat-photo-element ---> to call an element
  # adjust the margin of an element 
  - margin controls the amount of space between an element border and surrounding elements 
  ex: margin: 20px;
+
+ # add a negative margin to an element 
+ - margin controls the amount of space between an element border and surrounding elements 
+ - if you set marginto a negative value, then the element will grow larger 
+ ex: margin: -15px;
