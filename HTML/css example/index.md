@@ -96,3 +96,7 @@ ex: #cat-photo-element ---> to call an element
  - margin controls the amount of space between an element border and surrounding elements 
  - if you set marginto a negative value, then the element will grow larger 
  ex: margin: -15px;
+ 
+ # add different padding to each side of an element 
+ -  css allows us to control the padding of all four individual sides of an element with the 
+ - padding-top, padding-right, padding-bottom, and padding-left properties.
