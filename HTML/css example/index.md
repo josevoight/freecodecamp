@@ -114,3 +114,11 @@ ex: padding: 10px 20px 10px 20px;
 - same as padding 
 ex: 40px 20px 20px 40px;
 - top right bottom left
+
+# use attribute selectors to style elements 
+- [attr=value] --> attributes selector to style the checkboxes
+- This selector matches and styles elements with a specific attribute value. For example, the below code changes the margins of all elements with the attribute type and a corresponding value of radio:
+ex:
+    [type='radio'] {
+  margin: 20px 0px 20px 0px;
+}
