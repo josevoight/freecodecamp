@@ -100,3 +100,17 @@ ex: #cat-photo-element ---> to call an element
  # add different padding to each side of an element 
  -  css allows us to control the padding of all four individual sides of an element with the 
  - padding-top, padding-right, padding-bottom, and padding-left properties.
+
+ # different margins to each side of an element 
+-  to control the margin of all four individual sides of an element with the margin-top, margin-right, margin-bottom, and margin-left properties.
+- margin is used to create space around elements 
+
+# use clockwise notation to specify the padding of an element 
+- instead of calling each padding properties, we can specify them all in one line.'
+ex: padding: 10px 20px 10px 20px;
+- clock: top,right, bottom, and left 
+
+# clockwise notation to specify the margin of an element
+- same as padding 
+ex: 40px 20px 20px 40px;
+- top right bottom left
