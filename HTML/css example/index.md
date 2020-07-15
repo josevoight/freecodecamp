@@ -97,6 +97,8 @@ ex: #cat-photo-element ---> to call an element
  - if you set marginto a negative value, then the element will grow larger 
  ex: margin: -15px;
  
+
+ 7/23/2020
  # add different padding to each side of an element 
  -  css allows us to control the padding of all four individual sides of an element with the 
  - padding-top, padding-right, padding-bottom, and padding-left properties.
@@ -122,3 +124,13 @@ ex:
     [type='radio'] {
   margin: 20px 0px 20px 0px;
 }
+
+
+7/14/2020
+# undestand absolute versus relative units 
+- pixels (px) are a type of length unit which is what the tells the browser how to size or space an item. 
+- lenght units are absolute and relative 
+- absolute units tie to phsyical units of lenght such as in and mm 
+- relative units such as em or rem 
+- em is based on the size of an element's font 
+ex:  padding: 1.5em;
