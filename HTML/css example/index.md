@@ -134,3 +134,13 @@ ex:
 - relative units such as em or rem 
 - em is based on the size of an element's font 
 ex:  padding: 1.5em;
+
+7/15/2020
+# style the html body element 
+- every html page has a body page 
+ex: backgroud-color: black;
+
+# inherit styles from the body element 
+- you can style the the body element and everything inside the body will be style too unless you use class or id to overrode our body element CSS declaration. their style in a way you want without the body affecting the content 
+- what can override a css class? another css class -- the order that you put the class in the css style matters
+- The second declaration will always take precedence over the first. Because .blue-text is declared second, it overrides the attributes of .pink-text
