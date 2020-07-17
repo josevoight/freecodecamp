@@ -149,3 +149,10 @@ ex: backgroud-color: black;
 -in style will override any class or id style
 - the last override style and override all css style 
 ex: color: red !important;
+
+7/16/2020
+# use Hex code for specific colors 
+- there is many ways to represent color in css 
+- hexadecimal code or hex fo short 
+- in css, we can use 6 hex to represent color 
+ex: #000000; ->>> black color
