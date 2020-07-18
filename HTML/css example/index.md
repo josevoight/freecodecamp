@@ -156,3 +156,15 @@ ex: color: red !important;
 - hexadecimal code or hex fo short 
 - in css, we can use 6 hex to represent color 
 ex: #000000; ->>> black color
+
+
+7/17/2020   
+# Abbreviated Hex code 
+ex: red color #FF0000 ---> #F00 
+
+# Use RGB values to color elements 
+- using RGB values to color in css 
+ex: black rgb(0, 0, 0)
+- use rgb to mix color 
+ex: blue ->> rgb(0, 0, 255)
+    red ->>  rgb(255, 0, 0)
