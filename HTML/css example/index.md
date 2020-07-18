@@ -168,3 +168,7 @@ ex: black rgb(0, 0, 0)
 - use rgb to mix color 
 ex: blue ->> rgb(0, 0, 255)
     red ->>  rgb(255, 0, 0)
+
+# Use css variables to change several elements at once 
+- css varibles are a powerful way to change many css style properties at once by changing only one value 
+ex: --penguin-skin: gray; ---> an example of css variable
