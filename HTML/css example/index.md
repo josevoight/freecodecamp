@@ -182,3 +182,7 @@ ex: background: var(--penguin-skin, black);
 //Inherit css variables 
 - using :root element to make the use of inheritance
 - :root is a pseudo-class selector that matches the root element of the document, usually the html element. By creating your variables in :root, they will be available globally and can be accessed from any other selector in the style sheet.
+
+// coding for tomorrow 
+- end with css and learn more aobut it 
+- read the html and css book
