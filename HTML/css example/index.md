@@ -178,3 +178,7 @@ ex: background: var(--penguin-skin, black);
 
 # Improve compatibility with browser fallbacks
 - fallbacks helps us avoid compatibility issues 
+
+//Inherit css variables 
+- using :root element to make the use of inheritance
+- :root is a pseudo-class selector that matches the root element of the document, usually the html element. By creating your variables in :root, they will be available globally and can be accessed from any other selector in the style sheet.
