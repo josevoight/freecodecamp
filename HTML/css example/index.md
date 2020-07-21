@@ -186,3 +186,8 @@ ex: background: var(--penguin-skin, black);
 // coding for tomorrow 
 - end with css and learn more aobut it 
 - read the html and css book
+
+# change a variable for a specific area 
+- When you create your variables in :root they will set the value of that variable for the whole page.
+
+- You can then over-write these variables by setting them again within a specific element.
