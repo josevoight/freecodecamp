@@ -191,3 +191,10 @@ ex: background: var(--penguin-skin, black);
 - When you create your variables in :root they will set the value of that variable for the whole page.
 
 - You can then over-write these variables by setting them again within a specific element.
+
+# use media querry to change a variable 
+- CSS Variables can simplify the way you use media queries.
+
+- For instance, when your screen is smaller or larger than your media query break point, you can change the value of a variable, and it will apply its style wherever it is used.
+
+# Done with html and css
